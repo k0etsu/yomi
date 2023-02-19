@@ -1,0 +1,13 @@
+{
+	"name": "Dragoon",
+	"friendly_name": "Dragoon",
+	"description": "A warrior of light whom has taken up the mantle of the Azure Dragoon.",
+	"author": "k0etsu, Crito",
+	"version": "0.0.0",
+	"link": "",
+	"id": "00001",
+	"requires": ["char_loader"],
+	"overwrites": false,
+	"client_side": false,
+	"priority": 0,
+}
